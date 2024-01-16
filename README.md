@@ -4,14 +4,15 @@ actiTIME is an affordable time-tracking platform with rich functionality. Beside
 
 TestNG Hybrid Framework
 
-What all tools are used in this project?
+Project Management  tools :- Maven 
 
-Hybrid  TestNG Maven Page Object Model design pattern 
+Language          :- Java 
+Webdriver         :- Selenium Webdriver 
+Excel Reader      : - Apache poi Library 
+Page Object Model :- Locators and getters for Web Pages 
+TestNG.xml        :- can be used for execution ana for parallel testing
+POM.xml           :- heart of project - contains all the dependencies required by the project.
 
-Pages --> Page classes - Contains locators and getter/setters for  webpage
-
-TestNG.xml = can be used for execution or for parallel testing
-
-POM.xml - heart of project - contains all the dependencies required by the project.
+Annaotations , Assertions , Default Repots.
 
 
